@@ -3,19 +3,19 @@
 		"ProductCode": "aaaa",
 		"ProductName": "bbbbb",
 		"ProductGrammage": "ccccc",
-		"ProductBarcode": "dddd",
+		"ProductBarcode": "Tomato",
 		"ProductCatCode": "eeee",
 		"ProductSubCode": "ffff",
-		"ProductMRP": "ggggg",
-		"ProductBBPrice": "hhhh"
+		"ProductMRP": "Rs.45 Kg",
+		"ProductBBPrice": "Rs.35 Kg"
 	}, {
 		"ProductCode": "Delhi",
 		"ProductName": "horliks",
 		"ProductGrammage": "Delhi",
-		"ProductBarcode": "Delhi",
+		"ProductBarcode": "Potato",
 		"ProductCatCode": "Delhi",
 		"ProductSubCode": "Delhi",
-		"ProductMRP": "Delhi",
-		"ProductBBPrice": "Delhi"
+		"ProductMRP": "Rs.15 Kg",
+		"ProductBBPrice": "Rs.8 Kg"
 	}]
 }
