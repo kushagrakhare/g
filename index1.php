@@ -6,16 +6,16 @@
 		"ProductBarcode": "Tomato",
 		"ProductCatCode": "eeee",
 		"ProductSubCode": "ffff",
-		"ProductMRP": "gggg",
-		"ProductBBPrice": "hhhh"
+		"ProductMRP": "40",
+		"ProductBBPrice": "35"
 	}, {
 		"ProductCode": "delhi",
-		"ProductName": "delhi",
+		"ProductName": "Rice",
 		"ProductGrammage": "delhi",
 		"ProductBarcode": "Potato",
 		"ProductCatCode": "delhi",
 		"ProductSubCode": "delhi",
-		"ProductMRP": "delhi",
-		"ProductBBPrice": "delhi"
+		"ProductMRP": "23",
+		"ProductBBPrice": "20"
 	}]
 }
