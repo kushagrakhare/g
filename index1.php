@@ -3,7 +3,7 @@
 		"ProductCode": "aaaa",
 		"ProductName": "bbbbb",
 		"ProductGrammage": "ccccc",
-		"ProductBarcode": "Tomato",
+		"ProductBarcode": "dddd",
 		"ProductCatCode": "eeee",
 		"ProductSubCode": "ffff",
 		"ProductMRP": "gggg",
