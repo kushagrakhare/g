@@ -114,5 +114,5 @@
 		"ProductSubCode": "ffff",
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
-	},]
+	}]
 }
