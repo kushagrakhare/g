@@ -6,16 +6,16 @@
 		"ProductBarcode": "Tomato",
 		"ProductCatCode": "eeee",
 		"ProductSubCode": "ffff",
-		"ProductMRP": "45",
-		"ProductBBPrice": "35"
+		"ProductMRP": "gggg",
+		"ProductBBPrice": "hhhh"
 	}, {
 		"ProductCode": "Delhi",
 		"ProductName": "horliks",
 		"ProductGrammage": "Delhi",
 		"ProductBarcode": "Potato",
-		"ProductCatCode": "Delhi",
-		"ProductSubCode": "Delhi",
-		"ProductMRP": "15",
-		"ProductBBPrice": "8"
+		"ProductCatCode": "eeee",
+		"ProductSubCode": "ffff",
+		"ProductMRP": "gggg",
+		"ProductBBPrice": "hhhh"
 	}]
 }
