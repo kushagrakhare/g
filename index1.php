@@ -1,8 +1,8 @@
 {
 	"ProductList": [{
-		"ProductCode": "Delhi",
-		"ProductName": "Delhi",
-		"ProductGrammage": "Delhi",
+		"ProductCode": "a",
+		"ProductName": "b",
+		"ProductGrammage": "c",
 		"ProductBarcode": "Delhi",
 		"ProductCatCode": "Delhi",
 		"ProductSubCode": "Delhi",
