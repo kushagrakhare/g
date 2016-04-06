@@ -27,7 +27,7 @@
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
 	}, {
-		"ProductCode": "11",
+		"ProductCode": "4",
 		"ProductName": "Rice",
 		"ProductGrammage": "ccccc",
 		"ProductBarcode": "Rice",
@@ -36,7 +36,7 @@
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
 	}, {
-		"ProductCode": "12",
+		"ProductCode": "5",
 		"ProductName": "Rice",
 		"ProductGrammage": "delhi",
 		"ProductBarcode": "Rice",
@@ -44,5 +44,75 @@
 		"ProductSubCode": "delhi",
 		"ProductMRP": "23",
 		"ProductBBPrice": "20"
-	}]
+	}
+	{
+		"ProductCode": "6",
+		"ProductName": "Rice",
+		"ProductGrammage": "ccccc",
+		"ProductBarcode": "Rice",
+		"ProductCatCode": "eeee",
+		"ProductSubCode": "ffff",
+		"ProductMRP": "47",
+		"ProductBBPrice": "32"
+	},
+	{
+		"ProductCode": "7",
+		"ProductName": "Rice",
+		"ProductGrammage": "ccccc",
+		"ProductBarcode": "Rice",
+		"ProductCatCode": "eeee",
+		"ProductSubCode": "ffff",
+		"ProductMRP": "47",
+		"ProductBBPrice": "32"
+	},
+	{
+		"ProductCode": "8",
+		"ProductName": "Rice",
+		"ProductGrammage": "ccccc",
+		"ProductBarcode": "Rice",
+		"ProductCatCode": "eeee",
+		"ProductSubCode": "ffff",
+		"ProductMRP": "47",
+		"ProductBBPrice": "32"
+	},
+	{
+		"ProductCode": "9",
+		"ProductName": "Rice",
+		"ProductGrammage": "ccccc",
+		"ProductBarcode": "Rice",
+		"ProductCatCode": "eeee",
+		"ProductSubCode": "ffff",
+		"ProductMRP": "47",
+		"ProductBBPrice": "32"
+	},
+	{
+		"ProductCode": "10",
+		"ProductName": "Rice",
+		"ProductGrammage": "ccccc",
+		"ProductBarcode": "Rice",
+		"ProductCatCode": "eeee",
+		"ProductSubCode": "ffff",
+		"ProductMRP": "47",
+		"ProductBBPrice": "32"
+	},
+	{
+		"ProductCode": "11",
+		"ProductName": "Rice",
+		"ProductGrammage": "ccccc",
+		"ProductBarcode": "Rice",
+		"ProductCatCode": "eeee",
+		"ProductSubCode": "ffff",
+		"ProductMRP": "47",
+		"ProductBBPrice": "32"
+	},
+	{
+		"ProductCode": "12",
+		"ProductName": "Rice",
+		"ProductGrammage": "ccccc",
+		"ProductBarcode": "Rice",
+		"ProductCatCode": "eeee",
+		"ProductSubCode": "ffff",
+		"ProductMRP": "47",
+		"ProductBBPrice": "32"
+	},]
 }
