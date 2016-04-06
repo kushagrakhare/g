@@ -9,10 +9,10 @@
 		"ProductMRP": "gggg",
 		"ProductBBPrice": "hhhh"
 	}, {
-		"ProductCode": "Delhi",
-		"ProductName": "horliks",
-		"ProductGrammage": "Delhi",
-		"ProductBarcode": "Potato",
+		"ProductCode": "aaaa",
+		"ProductName": "bbbbb",
+		"ProductGrammage": "ccccc",
+		"ProductBarcode": "dddd",
 		"ProductCatCode": "eeee",
 		"ProductSubCode": "ffff",
 		"ProductMRP": "gggg",
