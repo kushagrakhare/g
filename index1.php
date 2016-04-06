@@ -6,8 +6,8 @@
 		"ProductBarcode": "Tomato",
 		"ProductCatCode": "eeee",
 		"ProductSubCode": "ffff",
-		"ProductMRP": "Rs.45 Kg",
-		"ProductBBPrice": "Rs.35 Kg"
+		"ProductMRP": "45",
+		"ProductBBPrice": "35"
 	}, {
 		"ProductCode": "Delhi",
 		"ProductName": "horliks",
@@ -15,7 +15,7 @@
 		"ProductBarcode": "Potato",
 		"ProductCatCode": "Delhi",
 		"ProductSubCode": "Delhi",
-		"ProductMRP": "Rs.15 Kg",
-		"ProductBBPrice": "Rs.8 Kg"
+		"ProductMRP": "15",
+		"ProductBBPrice": "8"
 	}]
 }
