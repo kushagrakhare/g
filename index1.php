@@ -44,7 +44,7 @@
 		"ProductSubCode": "delhi",
 		"ProductMRP": "23",
 		"ProductBBPrice": "20"
-	}
+	},
 	{
 		"ProductCode": "6",
 		"ProductName": "Rice",
