@@ -27,7 +27,7 @@
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
 	}, {
-		"ProductCode": "1",
+		"ProductCode": "11",
 		"ProductName": "Rice",
 		"ProductGrammage": "ccccc",
 		"ProductBarcode": "Rice",
@@ -36,7 +36,7 @@
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
 	}, {
-		"ProductCode": "2",
+		"ProductCode": "12",
 		"ProductName": "Rice",
 		"ProductGrammage": "delhi",
 		"ProductBarcode": "Rice",
