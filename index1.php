@@ -1,6 +1,6 @@
 {
 	"ProductList": [{
-		"ProductCode": "aaaa",
+		"ProductCode": "1",
 		"ProductName": "Tomato",
 		"ProductGrammage": "ccccc",
 		"ProductBarcode": "Tomato",
@@ -9,7 +9,7 @@
 		"ProductMRP": "40",
 		"ProductBBPrice": "35"
 	}, {
-		"ProductCode": "aaaa",
+		"ProductCode": "2",
 		"ProductName": "Tomato small",
 		"ProductGrammage": "ccccc",
 		"ProductBarcode": "Tomato",
@@ -18,7 +18,7 @@
 		"ProductMRP": "38",
 		"ProductBBPrice": "35"
 	}, {
-		"ProductCode": "aaaa",
+		"ProductCode": "3",
 		"ProductName": "Tomato imported",
 		"ProductGrammage": "ccccc",
 		"ProductBarcode": "Tomato",
