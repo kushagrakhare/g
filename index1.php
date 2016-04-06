@@ -27,15 +27,6 @@
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
 	}, {
-		"ProductCode": "aaaa",
-		"ProductName": "Horliks",
-		"ProductGrammage": "ccccc",
-		"ProductBarcode": "Tomato",
-		"ProductCatCode": "eeee",
-		"ProductSubCode": "ffff",
-		"ProductMRP": "40",
-		"ProductBBPrice": "35"
-	}, {
 		"ProductCode": "delhi",
 		"ProductName": "Rice",
 		"ProductGrammage": "delhi",
