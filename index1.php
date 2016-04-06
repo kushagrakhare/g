@@ -27,10 +27,19 @@
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
 	}, {
-		"ProductCode": "delhi",
+		"ProductCode": "1",
+		"ProductName": "Rice",
+		"ProductGrammage": "ccccc",
+		"ProductBarcode": "Rice",
+		"ProductCatCode": "eeee",
+		"ProductSubCode": "ffff",
+		"ProductMRP": "47",
+		"ProductBBPrice": "32"
+	}, {
+		"ProductCode": "2",
 		"ProductName": "Rice",
 		"ProductGrammage": "delhi",
-		"ProductBarcode": "Potato",
+		"ProductBarcode": "Rice",
 		"ProductCatCode": "delhi",
 		"ProductSubCode": "delhi",
 		"ProductMRP": "23",
