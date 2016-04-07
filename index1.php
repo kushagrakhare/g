@@ -2,19 +2,19 @@
 	"ProductList": [{
 		"ProductCode": "1",
 		"ProductName": "Tomato",
-		"ProductGrammage": "ccccc",
-		"ProductBarcode": "00",
-		"ProductCatCode": "7",
-		"ProductSubCode": "77",
+		"ProductGrammage": "5 gm",
+		"ProductBarcode": "109",
+		"ProductCatCode": "71",
+		"ProductSubCode": "11",
 		"ProductMRP": "40",
 		"ProductBBPrice": "35"
 	}, {
 		"ProductCode": "10",
 		"ProductName": "Tomato small",
-		"ProductGrammage": "ccccc",
-		"ProductBarcode": "000",
-		"ProductCatCode": "7",
-		"ProductSubCode": "666",
+		"ProductGrammage": "6 gm",
+		"ProductBarcode": "190",
+		"ProductCatCode": "72",
+		"ProductSubCode": "12",
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
 	}, {
@@ -23,8 +23,8 @@
 		"ProductName": "DALDA Cooking oil 1 LTR",
 		"ProductGrammage": "5g",
 		"ProductBarcode": "1234567891011",
-		"ProductCatCode": "455",
-		"ProductSubCode": "456",
+		"ProductCatCode": "73",
+		"ProductSubCode": "13",
 		"ProductMRP": "100",
 		"ProductBBPrice": "120"
 
