@@ -17,6 +17,15 @@
 		"ProductSubCode": "666",
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
+	},{
+		"ProductCode": "10",
+		"ProductName": "rice",
+		"ProductGrammage": "dd",
+		"ProductBarcode": "Tomato small",
+		"ProductCatCode": "12",
+		"ProductSubCode": "121",
+		"ProductMRP": "47",
+		"ProductBBPrice": "32"
 	}
 	]
 }
