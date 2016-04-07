@@ -4,7 +4,7 @@
 		"ProductName": "Tomato",
 		"ProductGrammage": "ccccc",
 		"ProductBarcode": "Tomato",
-		"ProductCatCode": "eeee",
+		"ProductCatCode": "1",
 		"ProductSubCode": "ffff",
 		"ProductMRP": "40",
 		"ProductBBPrice": "35"
