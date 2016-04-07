@@ -23,8 +23,8 @@
 		"ProductName": "DALDA Cooking oil 1 LTR",
 		"ProductGrammage": "5g",
 		"ProductBarcode": "1234567891011",
-		"ProductCatCode": "EDIBLE GROCERY",
-		"ProductSubCode": "OIL/GHEE",
+		"ProductCatCode": "455",
+		"ProductSubCode": "456",
 		"ProductMRP": "100",
 		"ProductBBPrice": "120"
 
