@@ -8,7 +8,7 @@
 		"ProductSubCode": "77",
 		"ProductMRP": "40",
 		"ProductBBPrice": "35"
-	},{
+	}, {
 		"ProductCode": "10",
 		"ProductName": "Tomato small",
 		"ProductGrammage": "ccccc",
@@ -17,15 +17,16 @@
 		"ProductSubCode": "666",
 		"ProductMRP": "47",
 		"ProductBBPrice": "32"
-	},{
-		"ProductCode": "10",
-		"ProductName": "rice",
-		"ProductGrammage": "dd",
-		"ProductBarcode": "Tomato small",
-		"ProductCatCode": "12",
-		"ProductSubCode": "121",
-		"ProductMRP": "47",
-		"ProductBBPrice": "32"
-	}
-	]
+	}, {
+
+		"ProductCode": "12",
+		"ProductName": "DALDA Cooking oil 1 LTR",
+		"ProductGrammage": "5g",
+		"ProductBarcode": "1234567891011",
+		"ProductCatCode": "EDIBLE GROCERY",
+		"ProductSubCode": "OIL/GHEE",
+		"ProductMRP": "100",
+		"ProductBBPrice": "120"
+
+	}]
 }
