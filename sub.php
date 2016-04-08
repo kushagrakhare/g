@@ -23,7 +23,7 @@
 		"ProductName": "DALDA Cooking oil 1 LTR",
 		"ProductGrammage": "5g",
 		"ProductBarcode": "1234567891011",
-		"ProductCatCode": "73",
+		"ProductCatCode": "10",
 		"ProductSubCode": "1002",
 		"ProductMRP": "100",
 		"ProductBBPrice": "110"
