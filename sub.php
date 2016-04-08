@@ -26,7 +26,7 @@
 		"ProductCatCode": "73",
 		"ProductSubCode": "13",
 		"ProductMRP": "100",
-		"ProductBBPrice": "120"
+		"ProductBBPrice": "110"
 
 	}]
 }
