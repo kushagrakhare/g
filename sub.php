@@ -24,7 +24,7 @@
 		"ProductGrammage": "5g",
 		"ProductBarcode": "1234567891011",
 		"ProductCatCode": "73",
-		"ProductSubCode": "13",
+		"ProductSubCode": "1002",
 		"ProductMRP": "100",
 		"ProductBBPrice": "110"
 
