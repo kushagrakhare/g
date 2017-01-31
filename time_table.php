@@ -33,7 +33,7 @@
       {
          "username":"ramiz",
          "name":"Ramiz Khan",
-         "course":"MBA",
+         "course":"MBAs",
          "session":"2015-2017"
       },
       {
