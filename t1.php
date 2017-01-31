@@ -9,7 +9,7 @@
 }, {
 	"id": "3",
 	"image_title": "Physics",
-	"image_url": "http:\/\/androidblog.esy.es\/images\/eclair-3.png"
+	"image_url": "http://collegeholkar.org/upload/BeautyPlus_20151119130732_save.jpg"
 }, {
 	"id": "4",
 	"image_title": "Chemistry",
@@ -21,17 +21,17 @@
 }, {
 	"id": "6",
 	"image_title": "Computer",
-	"image_url": "http:\/\/androidblog.esy.es\/images\/honeycomb-6.png"
+	"image_url": "http://collegeholkar.org/upload/970672_704708689606666_7900309174862126741_n.jpg"
 }, {
 	"id": "7",
 	"image_title": "Economics",
-	"image_url": "http:\/\/androidblog.esy.es\/images\/ice-cream-sandwich-7.png"
+	"image_url": "http://collegeholkar.org/upload/IMG-20151114-WA0010.jpg"
 }, {
 	"id": "8",
 	"image_title": "commerse",
-	"image_url": "http:\/\/androidblog.esy.es\/images\/jellybean-8.png"
+	"image_url": "http://collegeholkar.org/upload/manish.png"
 }, {
 	"id": "9",
 	"image_title": "Graph",
-	"image_url": "http:\/\/androidblog.esy.es\/images\/kitkat-9.png"
+	"image_url": "http://collegeholkar.org/upload/1800296_520749021394746_906416541762378070_n.jpg"
 }]
