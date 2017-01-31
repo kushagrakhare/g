@@ -3,7 +3,7 @@
       {
          "username":"faiz",
          "name":"Faiz Khan",
-         "course":"BCA",
+         "course":"BCAa",
          "session":"2014-2017"
       },
 {
