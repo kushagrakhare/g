@@ -1,7 +1,7 @@
 [{
 	"id": "1",
 	"image_title": "History",
-	"image_url": "http:\/\/androidblog.esy.es\/images\/cupcake-1.png"
+	"image_url": "http://www.forumfed.org/images2/2010-09-10-LnL.jpg"
 }, {
 	"id": "2",
 	"image_title": "Geography",
