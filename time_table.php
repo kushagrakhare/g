@@ -6,6 +6,24 @@
          "course":"BCA",
          "session":"2014-2017"
       },
+{
+         "username":"faiz",
+         "name":"Faiz Khan",
+         "course":"BCA",
+         "session":"2014-2017"
+      },
+{
+         "username":"faiz",
+         "name":"Faiz Khan",
+         "course":"BCA",
+         "session":"2014-2017"
+      },
+{
+         "username":"faiz",
+         "name":"Faiz Khan",
+         "course":"BCA",
+         "session":"2014-2017"
+      },
       {
          "username":"belal",
          "name":"Belal Khan",
