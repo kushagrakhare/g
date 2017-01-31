@@ -1,11 +1,11 @@
 [{
 	"id": "1",
 	"image_title": "History",
-	"image_url": "http://www.forumfed.org/images2/2010-09-10-LnL.jpg"
+	"image_url": "http://collegeholkar.org/upload/Dr_Pradeep_Sharma.png"
 }, {
 	"id": "2",
 	"image_title": "Geography",
-	"image_url": "http:\/\/androidblog.esy.es\/images\/donut-2.png"
+	"image_url": "http://collegeholkar.org/upload/Shivlal_Mewada1.jpg"
 }, {
 	"id": "3",
 	"image_title": "Physics",
