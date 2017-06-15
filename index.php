@@ -1,6 +1,6 @@
 [{
 		"fish_img": "1.jpg",
-		"fish_name": "Indian Mackerel",
+		"fish_name": "Indian Mackere kharel",
 		"cat_name": "Marine Fish",
 		"size_name": "Medium",
 		"price": "100"
